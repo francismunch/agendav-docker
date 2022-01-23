@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t agendav:2.2.0 .
+docker build -t agendav:2.2.1 .
